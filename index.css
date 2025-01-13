@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(40, 66, 114);
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    max-width: 50%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: rgba(245, 245, 245, 0.5);
+    border-radius: 8px;
+    box-shadow: body;
+    text-align: center;
+}
+
+.content {
+    max-width: 50%;
+    margin: 40px auto;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgba(245, 245, 245, 0.5);
+    border-radius: 8px;
+    text-align: justify;
+}
+
+.content img {
+    display: flex;
+    padding: 30px;
+    margin: auto;
+    width: 45%;
+}
+
+
+
